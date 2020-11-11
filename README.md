@@ -1,4 +1,4 @@
-# Unit 17 Nosql Homework: Workout Tracker
+# Workout Tracker
 
 
 # Link to website https://dashboard.heroku.com/apps/blooming-shelf-74445/resources
