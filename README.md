@@ -7,7 +7,8 @@ This assignment is about creating a workout tracker with Mongo Database and sche
 As of 11/10/20 Mlab no longer exist, and I am not sure what to do to make the project work in Heroku. They do have another Mongo Database App you can buy on Heroku, I believe for $49.99, but I dont know if that will do the same thing as Mlab did. I was thinking about coverting my proejct over to Mysql Database and adding Jawsdb to Heroku, but I wasnt if it would get graded correctly.
 
 ## Link To Project
-If you click the link it will take you the the application on Heroku, but it will not work do to Mlab no longer beening in service  https://dashboard.heroku.com/apps/blooming-shelf-74445/resources
+Click the link here to view video of the application working https://drive.google.com/file/d/1uYJXBNISS7j97tY35JkJMMyqrUjcVof4/view
+If you click the link it will take you the the application on Heroku, but it will not work do to Mlab no longer being in service  https://dashboard.heroku.com/apps/blooming-shelf-74445/resources
 
 ## Pictures
 #### This is picture of the command line everytime name, type, weight, sets, reps, and long time is entered into the application on the localhost
